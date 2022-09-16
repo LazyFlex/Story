@@ -1,1 +1,5 @@
 Test- branch bugFix in now born
+
+Test failed du lack of commit
+
+Branch bug fix 2 is now born
